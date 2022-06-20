@@ -59,7 +59,7 @@
 </p>
 <b>Используемые объекты:</b> <br/>
 <pre>
- #include <fstream>
+ #include < fstream >
  ifstream
  vector< struct > 
  </pre>
